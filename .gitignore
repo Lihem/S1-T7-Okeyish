@@ -1,13 +1,8 @@
 # Local directories
 reports/
 scans/
-seaborn-master/
-jackson-core-3.x/
-logstash-main/
 venv/
-Catch2-devel/
-gson-main/
-requests-main/
+
 
 # Phase 2 refactoring artifacts
 refactor_workspaces/
